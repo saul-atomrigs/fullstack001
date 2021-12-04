@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "fullstack001",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "/Users/sollee/Desktop/fullstack001/amplify/backend/api/fullstack001/schema.graphql",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 7,
+      "apiKeyExpirationDate": "2021-12-10T12:58:15.786Z",
+      "keyDescription": ""
+    }
+  }
+}
